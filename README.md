@@ -49,7 +49,6 @@ you can use it in a variety of ways as shown in the examples below
 10.0.0.122:1026/tcp
 10.0.0.122:1027/tcp
 
-
 /scanipport.sh | grep udp 
 10.0.0.20:53/udp
 10.0.0.20:67/udp
